@@ -34,9 +34,9 @@ Hi, I'm [Chaudhary Hamdan!](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:
-- 🌱 I’m currently pursuing my Data Science interest
-- 💬 Ask me about anything, I am happy to help
+- 👨🏽‍💻 currently working :wink:
+- 🌱 I’m currently pursuing 
+- 💬 Ask me about anything
 - 📝Resume -> <a href="https://drive.google.com/drive/folders/1Kcdg-4OwLw_7rp81zrya6n6ejqqVsvsn?usp=sharing">
   <img align="center" alt="Hamdan's Resume" width="40px" src="Assets/resume.png" />
 </a>
