@@ -70,8 +70,6 @@ I'm [Chaudhary Hamdan!](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
@@ -101,16 +99,10 @@ I'm [Chaudhary Hamdan!](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamdan-codes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hamdan's GitHub Stats" width="400" />
 </a>
 
-
-
-
-
 <a href="https://github.com/MartinHeinz/face_swap_and_capture">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamdan-codes&repo=face_swap_and_capture&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>
 
-
-</a>    
 
 
 
