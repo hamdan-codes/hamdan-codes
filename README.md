@@ -41,7 +41,7 @@ Hi, I'm [Chaudhary Hamdan!](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1
 - 🤝🏻Would love to help, you can ask anything.
 - 😁Currently working on something cool
 - 🏢In Search of Internship.
-- 📝[Resume]<a href="https://drive.google.com/drive/folders/1Kcdg-4OwLw_7rp81zrya6n6ejqqVsvsn?usp=sharing">
+- 📝Resume -> <a href="https://drive.google.com/drive/folders/1Kcdg-4OwLw_7rp81zrya6n6ejqqVsvsn?usp=sharing">
   <img align="center" alt="Hamdan's Resume" width="35px" src="Assets/resume.png" />
 </a>
 
