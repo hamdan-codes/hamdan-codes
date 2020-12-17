@@ -36,7 +36,7 @@ I'm [Chaudhary Hamdan!](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)
 <a href="https://github.com/hamdan-codes">
   <img align="center" alt="Hamdan's Github" width="30px" src="Assets/github.png" />
 </a>
-<br> <hr>
+<hr>
 
 
 **Talking about Personal Stuffs:**
