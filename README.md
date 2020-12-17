@@ -98,7 +98,7 @@ Hi, I'm [Chaudhary Hamdan!](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/MartinHeinz/hamdan-codes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamdan-codes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hamdan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamdan-codes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hamdan's GitHub Stats" width="400" />
 </a>
 
 
@@ -106,7 +106,7 @@ Hi, I'm [Chaudhary Hamdan!](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1
 
 
 <a href="https://github.com/MartinHeinz/face_swap_and_capture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamdan-codes&repo=face_swap_and_capture&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamdan-codes&repo=face_swap_and_capture&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
 </a>
 
 
