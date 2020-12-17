@@ -46,10 +46,6 @@ Hi, I'm [Chaudhary Hamdan!](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdan-codes&theme=dark&show_icons=true" >
 
 
-<br>
-<p align="left">
-<b>📈 My GitHub Stats</b></p>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hamdan-codes&show_icons=true&theme=gotham" alt="hamdan-codes" />
 
 
