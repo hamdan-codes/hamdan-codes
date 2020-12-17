@@ -106,7 +106,7 @@ Hi, I'm [Chaudhary Hamdan!](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1
 
 
 <a href="https://github.com/MartinHeinz/face_swap_and_capture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamdan-codes&repo=face_swap_and_capture&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamdan-codes&repo=face_swap_and_capture&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="200" />
 </a>
 
 
