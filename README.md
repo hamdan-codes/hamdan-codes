@@ -34,13 +34,16 @@ Hi, I'm [Chaudhary Hamdan!](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:
-- 🌱 I’m currently pursuing my Data Science interest
-- 💬 Ask me about anything, I am happy to help
-- 📝Resume -> <a href="https://drive.google.com/drive/folders/1Kcdg-4OwLw_7rp81zrya6n6ejqqVsvsn?usp=sharing">
-  <img align="center" alt="Hamdan's Resume" width="40px" src="Assets/resume.png" />
+- 📈I'm currently pursuing my Data Science.
+- 💻I love innovating new things which can transform the living.
+- 🤓Making new things learning new stuffs
+- 👨🏻‍💻I do competitive programming and love Machine learning, deep learning, Data Science.
+- 🤝🏻Would love to help, you can ask anything.
+- 😁Currently working on something cool
+- 🏢In Search of Internship.
+- 📝[Resume]<a href="https://drive.google.com/drive/folders/1Kcdg-4OwLw_7rp81zrya6n6ejqqVsvsn?usp=sharing">
+  <img align="center" alt="Hamdan's Resume" width="35px" src="Assets/resume.png" />
 </a>
-
 
 
 
