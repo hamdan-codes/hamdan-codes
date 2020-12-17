@@ -49,7 +49,7 @@ Hi, I'm [Chaudhary Hamdan!](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hamdan-codes&show_icons=true&theme=gotham" alt="hamdan-codes" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hamdan-codes&show_icons=true&theme=gotham" alt="hamdan-codes" />
 
 
 
