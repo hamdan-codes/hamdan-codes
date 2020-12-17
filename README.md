@@ -2,7 +2,7 @@
 
 I'm [Chaudhary Hamdan!](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/), a passionate self-taught [Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/) 🚀 .
 
-  <img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/tenor.gif" width="200px" />
+  <img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/tenor.gif" width="225px" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdan-codes&theme=dark&show_icons=true">
 
 
@@ -36,7 +36,7 @@ I'm [Chaudhary Hamdan!](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)
 <a href="https://github.com/hamdan-codes">
   <img align="center" alt="Hamdan's Github" width="30px" src="Assets/github.png" />
 </a>
-<hr>
+<br><hr>
 
 
 **Talking about Personal Stuffs:**
