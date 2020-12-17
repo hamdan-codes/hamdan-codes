@@ -53,8 +53,8 @@ Hi, I'm [Chaudhary Hamdan!](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hamdan-codes&show_icons=true&theme=gotham" alt="hamdan-codes" />
 
 <p align="right">
-<b>My tools to make world a better place :</b>  
-
+<b>My tools to make world a better place :</b>  </p>
+<p>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
