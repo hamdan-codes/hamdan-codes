@@ -6,7 +6,7 @@ Hi, I'm [Chaudhary Hamdan!](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1
   
 
 <a href="https://twitter.com/bright_hamdan">
-  <img align="center" alt="Chaudhary Hamdan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="center" alt="Chaudhary Hamdan | Twitter" width="22px" src="Assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/">
   <img align="center" alt="Hamdan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
