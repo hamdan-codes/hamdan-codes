@@ -68,11 +68,18 @@ I'm [Chaudhary Hamdan](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)!
 
 
 ## &#x1f4c8; GitHub Stats
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/hamdan-codes/hamdan-codes"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamdan-codes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hamdan's GitHub Stats" width="400" />
+      </a>
+     </td>
+      <td>
+      <a href="https://github.com/hamdan-codes/face_swap_and_capture">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamdan-codes&repo=face_swap_and_capture&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+      </a>
+     </td>
+  </tr>
+</table>
 
-<a href="https://github.com/hamdan-codes/hamdan-codes"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamdan-codes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hamdan's GitHub Stats" width="400" />
-</a>
-
-<a href="https://github.com/hamdan-codes/face_swap_and_capture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamdan-codes&repo=face_swap_and_capture&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
-</a>
