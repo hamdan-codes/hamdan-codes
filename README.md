@@ -1,7 +1,7 @@
 ## Hey there, happy to see you...
 
 I'm [Chaudhary Hamdan](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)!, a passionate self-taught [Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/) 🚀.
-I'm a CS student at [KIIT University](https://kiit.ac.in/).Dream to a <b>FAANG</b> Engineer
+I'm a CS student at [KIIT University](https://kiit.ac.in/).Dream to be <b>FAANG</b> Engineer
 
   <img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="220px" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdan-codes&theme=dark&show_icons=true">
@@ -85,4 +85,5 @@ I'm a CS student at [KIIT University](https://kiit.ac.in/).Dream to a <b>FAANG</
      </td>
   </tr>
 </table>
-
+<br>
+<p align="center"> <h2>Stars will be appreciated as your ❤️ for me. </h2></p>
