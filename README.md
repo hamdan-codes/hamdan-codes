@@ -47,7 +47,7 @@ Love to solve complex things in simple ways.
 - 🏢In Search of Internship.
 - 📝Resume -> <a href="https://drive.google.com/drive/folders/1Kcdg-4OwLw_7rp81zrya6n6ejqqVsvsn?usp=sharing">
   <img align="center" alt="Hamdan's Resume" width="35px" src="Assets/resume.png" />
-</a>
+</a><hr>
 
 ***My tools to make world a better place :***
 
@@ -69,7 +69,7 @@ Love to solve complex things in simple ways.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<hr>
 
 ## &#x1f4c8; GitHub Stats
 <table>
@@ -94,4 +94,4 @@ Love to solve complex things in simple ways.
 
 
 
-<h2>Stars will be appreciated as your ❤️ for me. </h2>
+<h2>Starring repos will be appreciated as your ❤️ for me 😄. </h2>
