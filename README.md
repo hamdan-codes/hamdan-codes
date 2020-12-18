@@ -85,5 +85,5 @@ I'm a CS student at [KIIT University](https://kiit.ac.in/).Dream to be <b>FAANG<
      </td>
   </tr>
 </table>
-<br>
-<p align="center"> <h2>Stars will be appreciated as your ❤️ for me. </h2></p>
+<hr>
+<h2>- Stars will be appreciated as your ❤️ for me. </h2>
