@@ -1,6 +1,7 @@
 ## Hey there, happy to see you...
 
-I'm [Chaudhary Hamdan](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)!, a passionate self-taught [Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/) 🚀 .
+I'm [Chaudhary Hamdan](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)!, a passionate self-taught [Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/) 🚀.
+I'm a CS student at [KIIT University](https://kiit.ac.in/).Dream to a <b>FAANG</b> Engineer
 
   <img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="220px" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdan-codes&theme=dark&show_icons=true">
@@ -65,6 +66,8 @@ I'm [Chaudhary Hamdan](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)!
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 ## &#x1f4c8; GitHub Stats
