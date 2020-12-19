@@ -1,7 +1,8 @@
 ## Hey there, happy to see you...
 
-I'm [Chaudhary Hamdan](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)!, a passionate self-taught [Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/) 🚀.<br>
-I'm a CS student at [KIIT University](https://kiit.ac.in/). Dream to be a <b>FAANG</b> Engineer.<br>
+I'm [Chaudhary Hamdan](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)!, a passionate [Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/) 🚀.<br>
+Thankful to [Coding Blocks](https://github.com/coding-blocks). <br>
+A CS student at [KIIT University](https://kiit.ac.in/). Dream to be a <b>FAANG</b> Engineer.<br>
 Competitive coder [@KIIT_ACM](https://www.linkedin.com/in/kiit-acm-4514351ba/).
 Love to solve complex things in simple ways.
 
