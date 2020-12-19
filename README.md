@@ -31,9 +31,11 @@ Love to solve complex things in simple ways.
 <a href="https://www.hackerrank.com/ch_hamdan_edu">
   <img align="center" alt="Hamdan's Hackerrank" width="25px" src="Assets/hackerrank.png" />
 </a>
-
 <a href="https://github.com/hamdan-codes">
   <img align="center" alt="Hamdan's Github" width="25px" src="Assets/github.png" />
+</a>
+<a href="ch.hamdan.edu@gmail.com">
+  <img align="center" alt="Hamdan's Gmail" width="25px" src="Assets/gmail.png" />
 </a>
 <br><br>
 
