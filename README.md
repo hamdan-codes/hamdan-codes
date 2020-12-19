@@ -88,10 +88,7 @@ Love to solve complex things in simple ways.
 </table>
 <hr>
 
-
-
-
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=hamdan-codes)](https://github.com/ryo-ma/github-profile-trophy)
+<hr>
 
 <h2>Starring repos will be appreciated as your ❤️ for me 😄. </h2>
