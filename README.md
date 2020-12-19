@@ -34,7 +34,7 @@ Love to solve complex things in simple ways.
 <a href="https://github.com/hamdan-codes">
   <img align="center" alt="Hamdan's Github" width="25px" src="Assets/github.png" />
 </a>
-<a href="https://mail.google.com/mail/u/?authuser=ch.hamdan.edu@gmail.com">
+<a href="mailto:ch.hamdan.edu@gmail.com?subject=Hey%20Hamdan,%20From%20Github">
   <img align="center" alt="Hamdan's Gmail" width="25px" src="Assets/gmail.png" />
 </a>
 <br><br>
