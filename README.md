@@ -94,9 +94,7 @@ Love to solve complex things in simple ways.
 <table>
   <tr>
     <td rowspan="4">
-      <a href="https://online.codingblocks.com/certificates/CBOL-145412-2831">
         <img src="https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/DATA%20SCIENCE%20COURSE%20CERTIFICATE.PNG?raw=true", width="500px">
-      </a>
     </td>
   </tr>
   <tr>
