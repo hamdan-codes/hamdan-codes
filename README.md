@@ -96,12 +96,22 @@ Love to solve complex things in simple ways.
     <td rowspan="4"> <img src="https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/DATA%20SCIENCE%20COURSE%20CERTIFICATE.PNG?raw=true", width="500px"> </td>
   </tr>
   <tr>
-    <td><img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Problem%20Solving%20Basic.jpeg?raw=true", width="200px"></td>
-    <td><img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Problem%20Solving%20Intermediate.jpeg?raw=true", width="200px"></td>
+    <td>
+      <a href="https://www.hackerrank.com/certificates/71c6201316d1">
+      <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Problem%20Solving%20Basic.jpeg?raw=true", width="200px">
+      </a>
+    </td>
+    <td>
+      <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Problem%20Solving%20Intermediate.jpeg?raw=true", width="200px">
+    </td>
   </tr>
   <tr>
-    <td><img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Python%20Basic.jpeg?raw=true", width="200px"></td>
-    <td><img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Java%20Basic.jpeg?raw=true", width="200px"></td>
+    <td>
+      <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Python%20Basic.jpeg?raw=true", width="200px">
+    </td>
+    <td>
+      <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Java%20Basic.jpeg?raw=true", width="200px">
+    </td>
   </tr>
     
 </table>
