@@ -91,7 +91,6 @@ Love to solve complex things in simple ways.
 </table>
 <hr>
 
-
 <table>
   <tr>
     <td rowspan="4"> <img src="https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/DATA%20SCIENCE%20COURSE%20CERTIFICATE.PNG?raw=true", width="500px"> </td>
@@ -106,13 +105,7 @@ Love to solve complex things in simple ways.
   </tr>
     
 </table>
-
-
-
-
-
-
-
+<hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hamdan-codes)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
