@@ -52,7 +52,7 @@ Love to solve complex things in simple ways.
   <img align="center" alt="Hamdan's Resume" width="35px" src="Assets/resume.png" />
 </a><hr>
 
-***My tools to make world a better place :***
+***Techs and tools I use :***
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
@@ -90,6 +90,29 @@ Love to solve complex things in simple ways.
   </tr>
 </table>
 <hr>
+
+
+<table>
+  <tr>
+    <td rowspan="4"> <img src="https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/DATA%20SCIENCE%20COURSE%20CERTIFICATE.PNG?raw=true", width="500px"> </td>
+  </tr>
+  <tr>
+    <td><img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Problem%20Solving%20Basic.jpeg?raw=true", width="200px"></td>
+    <td><img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Problem%20Solving%20Intermediate.jpeg?raw=true", width="200px"></td>
+  </tr>
+  <tr>
+    <td><img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Python%20Basic.jpeg?raw=true", width="200px"></td>
+    <td><img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Java%20Basic.jpeg?raw=true", width="200px"></td>
+  </tr>
+    
+</table>
+
+
+
+
+
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hamdan-codes)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
