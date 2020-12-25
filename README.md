@@ -90,7 +90,7 @@ Love to solve complex things in simple ways.
   </tr>
 </table>
 <hr>
-
+<h2>Certifications 🏆📜 :  </h2>
 <table>
   <tr>
     <td rowspan="4">
