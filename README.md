@@ -93,24 +93,34 @@ Love to solve complex things in simple ways.
 
 <table>
   <tr>
-    <td rowspan="4"> <img src="https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/DATA%20SCIENCE%20COURSE%20CERTIFICATE.PNG?raw=true", width="500px"> </td>
+    <td rowspan="4">
+      <a href="https://online.codingblocks.com/certificates/CBOL-145412-2831">
+        <img src="https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/DATA%20SCIENCE%20COURSE%20CERTIFICATE.PNG?raw=true", width="500px">
+      </a>
+    </td>
   </tr>
   <tr>
     <td>
       <a href="https://www.hackerrank.com/certificates/71c6201316d1">
-      <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Problem%20Solving%20Basic.jpeg?raw=true", width="200px">
+        <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Problem%20Solving%20Basic.jpeg?raw=true", width="200px">
       </a>
     </td>
     <td>
-      <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Problem%20Solving%20Intermediate.jpeg?raw=true", width="200px">
+      <a href="https://www.hackerrank.com/certificates/39a2638276df">
+        <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Problem%20Solving%20Intermediate.jpeg?raw=true", width="200px">
+      </a>
     </td>
   </tr>
   <tr>
     <td>
-      <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Python%20Basic.jpeg?raw=true", width="200px">
+      <a href="https://www.hackerrank.com/certificates/ac7463fd111d">
+        <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Python%20Basic.jpeg?raw=true", width="200px">
+      </a>
     </td>
     <td>
-      <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Java%20Basic.jpeg?raw=true", width="200px">
+      <a href="https://www.hackerrank.com/certificates/97a95be90953">
+        <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Java%20Basic.jpeg?raw=true", width="200px">
+      </a>
     </td>
   </tr>
     
