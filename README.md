@@ -6,7 +6,7 @@ A CS student at [KIIT University](https://kiit.ac.in/). Dream to be a <b>FAANG</
 Competitive coder [@KIIT_ACM](https://www.linkedin.com/in/kiit-acm-4514351ba/).
 Love to solve complex things in simple ways.
 
-  <img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="220px" />
+  <img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="275px" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdan-codes&theme=dark&show_icons=true">
 
 
