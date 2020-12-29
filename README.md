@@ -6,7 +6,7 @@ A CS student at [KIIT University](https://kiit.ac.in/). Dream to be a <b>FAANG</
 Competitive coder [@KIIT_ACM](https://www.linkedin.com/in/kiit-acm-4514351ba/).
 Love to solve complex things in simple ways.
 
-  <img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="275px" />
+  <img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="230px" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdan-codes&theme=dark&show_icons=true">
 
 
@@ -45,7 +45,7 @@ Love to solve complex things in simple ways.
 - 📈I'm currently pursuing my Data Science.
 - 💻I love innovating new things which can transform the living.
 - 🤓Making new things learning new stuffs
-- 👨🏻‍💻I do competitive programming and love Machine learning, deep learning, Data Science.
+- 👨🏻‍💻I do competitive programming and love ML, DL and DS.
 - 🤝Ask anything, would love to help if I can.
 - 🏢In Search of Internship.
 - 📝Resume -> <a href="https://drive.google.com/drive/folders/1Kcdg-4OwLw_7rp81zrya6n6ejqqVsvsn?usp=sharing"><img align="center" alt="Hamdan's Resume" width="35px" src="Assets/resume.png" /></a>
