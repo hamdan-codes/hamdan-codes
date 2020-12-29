@@ -108,6 +108,11 @@ Love to solve complex things in simple ways.
         <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Problem%20Solving%20Intermediate.jpeg?raw=true", width="200px">
       </a>
     </td>
+    <td>
+      <a href="https://www.linkedin.com/posts/chaudhary-hamdan-34ab5b1a6_just-earned-the-gold-badge-for-problem-solving-activity-6749231828370018304-h8TW">
+        <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/problem-solving.jpg?raw=true", width="150px">
+      </a>
+    </td>
   </tr>
   <tr>
     <td>
@@ -118,6 +123,11 @@ Love to solve complex things in simple ways.
     <td>
       <a href="https://www.hackerrank.com/certificates/97a95be90953">
         <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/Java%20Basic.jpeg?raw=true", width="200px">
+      </a>
+    </td>
+     <td>
+      <a href="https://www.linkedin.com/posts/chaudhary-hamdan-34ab5b1a6_just-earned-the-gold-badge-for-python-on-activity-6748937001703157760-EAME">
+        <img src = "https://github.com/hamdan-codes/hamdan-codes/blob/main/Assets/python.jpg?raw=true", width="150px">
       </a>
     </td>
   </tr>
