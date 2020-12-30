@@ -83,7 +83,7 @@ Love to solve complex things in simple ways.
       </a>
      </td>
       <td>
-      <a href="https://github.com/hamdan-codes/face_swap_and_capture">
+      <a href="https://github.com/hamdan-codes/my-personal-site">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamdan-codes&repo=my-personal-site&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
       </a>
      </td>
