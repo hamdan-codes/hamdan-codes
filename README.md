@@ -49,7 +49,7 @@ Love to solve complex things in simple ways.
 - 🤝Ask anything, would love to help if I can.
 - 🏢Available for Internships.
 - 📝Resume -> <a href="https://drive.google.com/drive/folders/1Kcdg-4OwLw_7rp81zrya6n6ejqqVsvsn?usp=sharing"><img align="center" alt="Hamdan's Resume" width="35px" src="Assets/resume.png" /></a>
-- 📝My Website -> <a href="http://chaudharyhamdan.com.s3-website.ap-south-1.amazonaws.com/"><img align="center" alt="Hamdan's Resume" width="35px" src="website.jpg" /></a>
+- 📝My Website -> <a href="https://chaudharyhamdan.me/"><img align="center" alt="Hamdan's Resume" width="35px" src="website.jpg" /></a>
 <hr>
 
 ***Techs and tools I use :***
