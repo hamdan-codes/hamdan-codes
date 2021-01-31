@@ -1,4 +1,4 @@
-## Hey there, happy to see you... <img src="https://komarev.com/ghpvc/?username=haamdan-codes&label=Profile%20views&color=0e75b6&style=flat" alt="hamdan-codes" width=100 align="right"/>
+## Hey there, happy to see you... 
 
 I'm [Chaudhary Hamdan](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)!, a passionate [Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/) 🚀.
 Thankful to [Coding Blocks](http://codingblocks.com/). <br>
