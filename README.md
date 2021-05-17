@@ -1,7 +1,8 @@
 ## Hey there, happy to see you... 
 
 I'm [Chaudhary Hamdan](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)!, a passionate [Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/) 🚀.
-Thankful to [Coding Blocks](http://codingblocks.com/). <br>
+Thankful to [Coding Blocks](http://codingblocks.com/).<br>
+A 5⭐ Coder [@Codechef](https://www.codechef.com/users/ch_hamdan)<br>
 A CS student at [KIIT University](https://kiit.ac.in/). Dream to be a <b>FAANG™️</b> Engineer.<br>
 Competitive coder [@KIIT_ACM](https://www.linkedin.com/in/kiit-acm-4514351ba/).
 Love to solve complex things in simple ways.
@@ -68,10 +69,9 @@ Love to solve complex things in simple ways.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <hr>
 
 ## &#x1f4c8; GitHub Stats
@@ -91,7 +91,7 @@ Love to solve complex things in simple ways.
 </table>
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hamdan-codes)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hamdan-codes&theme=onedark&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
 <h2>Starring repos will be appreciated as your ❤️ for me. 😃 </h2>
