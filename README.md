@@ -1,6 +1,6 @@
 ## Hey there, happy to see you... 
 
-I'm [Chaudhary Hamdan](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)!, a passionate [Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/) 🚀 and a Flutter Developer ready to explore new things, learn and contribute to a Company's Growth.<br>
+I'm [Chaudhary Hamdan](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)!, a passionate [Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/) 🚀 and a Flutter Developer ready to explore new things, learn and contribute to a Company's Growth.
 Thankful to [Coding Blocks](http://codingblocks.com/) and Angela Yu.<br>
 A 5⭐ Coder [@Codechef](https://www.codechef.com/users/ch_hamdan)<br>
 
