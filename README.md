@@ -6,7 +6,7 @@ A 5⭐ Coder [@Codechef](https://www.codechef.com/users/ch_hamdan)<br>
 
 - Current Intern at [AKON GROUP OF INDUSTRIES](https://www.linkedin.com/company/wakatch/mycompany/) at the position of Automation Developer Intern.
 - And also Current Intern at [Coding Blocks](codingblocks.com) at position of Teaching Assistant for C++ DSA LIVE course.
-- [Samsung Prism]{https://www.samsungprism.com/} R&D Intern.
+- R&D Inter at [Samsung](https://www.samsungprism.com/) Prism.
 - Ex Compuer Vision Intern at TSF.
 
 A CS student at [KIIT University](https://kiit.ac.in/). Dream to be a <b>FAANG™️</b> Engineer.<br>
