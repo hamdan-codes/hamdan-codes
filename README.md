@@ -3,6 +3,12 @@
 I'm [Chaudhary Hamdan](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)!, a passionate [Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/) 🚀.
 Thankful to [Coding Blocks](http://codingblocks.com/).<br>
 A 5⭐ Coder [@Codechef](https://www.codechef.com/users/ch_hamdan)<br>
+
+- Current Intern at [AKON GROUP OF INDUSTRIES](https://www.linkedin.com/company/wakatch/mycompany/) at the position of Automation Developer Intern.
+- And also Current Intern at [Coding Blocks](codingblocks.com) at position of Teaching Assistant for C++ DSA LIVE course.
+- [Samsung Prism]{https://www.samsungprism.com/} R&D Intern.
+- Ex Compuer Vision Intern at TSF.
+
 A CS student at [KIIT University](https://kiit.ac.in/). Dream to be a <b>FAANG™️</b> Engineer.<br>
 Competitive coder [@KIIT_ACM](https://www.linkedin.com/in/kiit-acm-4514351ba/).
 Love to solve complex things in simple ways.
