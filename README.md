@@ -4,9 +4,9 @@ I'm [Chaudhary Hamdan](https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/)!
 Thankful to [Coding Blocks](http://codingblocks.com/) and Angela Yu.<br>
 A 5⭐ Coder [@Codechef](https://www.codechef.com/users/ch_hamdan)<br>
 
-- Current Intern at [AKON GROUP OF INDUSTRIES](https://www.linkedin.com/company/wakatch/mycompany/) at the position of Automation Developer Intern.
-- And also Current Intern at [Coding Blocks](codingblocks.com) at position of Teaching Assistant for C++ DSA LIVE course.
-- R&D Inter at [Samsung](https://www.samsungprism.com/) Prism.
+- <b>Current Intern at [AKON GROUP OF INDUSTRIES](https://www.linkedin.com/company/wakatch/mycompany/)</b> at the position of Automation Developer Intern.
+- And also <b>Current Intern at [Coding Blocks](codingblocks.com)</b> at position of Teaching Assistant for C++ DSA LIVE course.
+- <b>R&D Inter at [Samsung](https://www.samsungprism.com/)</b> Prism.
 - Ex Compuer Vision Intern at TSF.
 
 A CS student at [KIIT University](https://kiit.ac.in/). Dream to be a <b>FAANG™️</b> Engineer.<br>
